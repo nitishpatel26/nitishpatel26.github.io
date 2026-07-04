@@ -1,3 +1,3 @@
-### Monty Khanna | CV | Resume
+### Nitish Patel | CV | Resume
 
-[click me](https://mackraja.github.io/)
+[click me](https://nitishpatel26.github.io/)

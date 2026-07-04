@@ -1,12 +1,13 @@
 
 # Site settings
-title: Monty Khanna
-email: montykhanna007@hotmail.com
-description: "Full Stack JavaScript Developer"
+title: Nitish Patel
+email: patel.nitish22@gmail.com
+description: "Fullstack JavaScript Developer (React Js,Node Js)"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: #username
-github_username:  mackraja
+github_username:  nitishpatel26
+time: "2024-03-08"
 
 # Build settings
 markdown: kramdown
@@ -17,13 +18,13 @@ markdown: kramdown
 ####################################
 #
 owner:
-  name: Monty Khanna
-  avatar: avataaar.png
+  name: Nitish Patel
+  avatar: Nitish.jpg
   job: "<a href=\"https://www.ibm.com/in-en/\" target=\"_blank\">@IBM</a>"
-  bio: "<b>10+ years</b> of experience in software development integration of web based application.
+  bio: # "<b>14 years</b> of experience in software development integration of web based application.
 
-Excellent knowledge and experience of Nodejs, Reactjs (Classes, Hooks), Typescript, Redux, Saga, Redux-Form, Hapijs, Swagger, Sequelizejs, ReactStrap, semantic-ui, Material-ui, Ant Designs, AngularJs, Mysql/Postgresql/Mssql/MongoDb"
-  email: montykhanna007@hotmail.com
+# Excellent knowledge and experience of Nodejs, Reactjs (Classes, Hooks), Typescript, Redux, Saga, Redux-Form, Hapijs, Swagger, Sequelizejs, ReactStrap, semantic-ui, Material-ui, Ant Designs, AngularJs, Mysql/Postgresql/Mssql/MongoDb"
+  email: patel.nitish22@gmail.com
   disqus-shortname: #username
   twitter: #username
   facebook: #username
@@ -34,9 +35,9 @@ Excellent knowledge and experience of Nodejs, Reactjs (Classes, Hooks), Typescri
     ad-client:
     ad-slot:
   bing-verify:
-  github: mackraja
-  stackoverflow: 4156989/monty
-  linkedin: montykhanna
+  github: nitishpatel26
+  stackoverflow: #username
+  linkedin: nitish-patel
   xing: #username
   instagram: #username
   lastfm: #username
@@ -45,9 +46,9 @@ Excellent knowledge and experience of Nodejs, Reactjs (Classes, Hooks), Typescri
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: mkmontykhanna
+  youtube: #username
   soundcloud: #username
-  medium: montykhanna
+  medium: #username
   flickr: #username
   codepen: #username
-  pdfFormat: Monty_Resume.pdf
+  pdfFormat: Monty_Resume_062026.pdf
