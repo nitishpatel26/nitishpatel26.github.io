@@ -2,12 +2,12 @@
 # Site settings
 title: Nitish Patel
 email: patel.nitish22@gmail.com
-description: "Fullstack JavaScript Developer (React Js,Node Js)"
+description: "Fullstack JavaScript Developer (React.js, Node.js, Cloud & AI Systems)"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: #username
 github_username:  nitishpatel26
-time: "2024-03-08"
+time: "2026-07-05"
 
 # Build settings
 markdown: kramdown

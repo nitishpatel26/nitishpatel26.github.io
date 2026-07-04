@@ -5,6 +5,8 @@ title: Nitish Patel
 # Senior MERN Stack Developer 
 15 years of experience architecting and delivering scalable, high-performance, cloud-native applications across fintech, health, enterprise platforms, and AI-enabled systems.
 
+> Updated for GitHub Pages deployment on 2026-07-05.
+
 Specialized in **Software Architecture, Microservices Design, React Ecosystem, Micro-frontend Development, Node.js/NestJS Backends, and cloud-native engineering (AWS)**.
 
 Strong product mindset with ownership of architecture decisions, engineering standards, performance optimization, and long-term scalability. Experienced in mentoring teams, defining technical strategy, and aligning engineering solutions with business goals.
